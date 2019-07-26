@@ -1,0 +1,5 @@
+me\aboullaite\bookstore\model\Book.class
+me\aboullaite\bookstore\model\Author.class
+me\aboullaite\bookstore\service\BookService.class
+me\aboullaite\bookstore\BookstoreApplication.class
+me\aboullaite\bookstore\controller\BookController.class
